@@ -20,3 +20,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+ArrayOf3Simbols(array1, newArray);
+PrintArray(newArray);
