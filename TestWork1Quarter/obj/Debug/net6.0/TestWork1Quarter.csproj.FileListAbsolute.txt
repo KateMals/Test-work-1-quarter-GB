@@ -1,0 +1,15 @@
+C:\Study\TestWork1Quarter\TestWork1Quarter\bin\Debug\net6.0\TestWork1Quarter.exe
+C:\Study\TestWork1Quarter\TestWork1Quarter\bin\Debug\net6.0\TestWork1Quarter.deps.json
+C:\Study\TestWork1Quarter\TestWork1Quarter\bin\Debug\net6.0\TestWork1Quarter.runtimeconfig.json
+C:\Study\TestWork1Quarter\TestWork1Quarter\bin\Debug\net6.0\TestWork1Quarter.dll
+C:\Study\TestWork1Quarter\TestWork1Quarter\bin\Debug\net6.0\TestWork1Quarter.pdb
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.csproj.AssemblyReference.cache
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.AssemblyInfoInputs.cache
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.AssemblyInfo.cs
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.csproj.CoreCompileInputs.cache
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.dll
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\refint\TestWork1Quarter.dll
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.pdb
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\TestWork1Quarter.genruntimeconfig.cache
+C:\Study\TestWork1Quarter\TestWork1Quarter\obj\Debug\net6.0\ref\TestWork1Quarter.dll
